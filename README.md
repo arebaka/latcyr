@@ -1,4 +1,4 @@
-# latkir
+# latcyr
 
 > A result of a hypomanic state in the fall with bipolar disorder.
 
