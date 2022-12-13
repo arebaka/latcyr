@@ -2,7 +2,7 @@
 
 > A result of a hypomanic state in the fall with bipolar disorder.
 
-Here is a variant of partial latinization of some Slavic languages (Russian, Ukrainian, Belarussian).
+Here is a variant of partial latinization of some Slavic languages (Russian, Ukrainian, Belarusian).
 It does not completely replace all letters of the alphabets, leaving Cyrillic ones where appropriate.
 Most of the letters, nevertheless, have been turned to Latin to save memory space when storing in multibyte encodings and for more comfortable reading (a lot of lowercase letters have extension elements, they are smaller in width).
 
